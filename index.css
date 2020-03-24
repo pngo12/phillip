@@ -1,0 +1,23 @@
+#title {
+    margin-bottom: 20px;
+}
+
+#content {
+    margin-bottom: 20px;
+}
+
+#mainColumn {
+    max-width: 33em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    height: 100vh;
+    font-family: 'Open Sans',
+    sans-serif;
+}
+
+section {
+    height: 100vh;
+}
