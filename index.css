@@ -13,11 +13,12 @@
 }
 
 body {
-    height: 100vh;
+    height: 100%;
     font-family: 'Open Sans',
     sans-serif;
 }
 
 section {
     height: 100vh;
+    overflow: auto;
 }
