@@ -23,6 +23,12 @@ section {
 }
 
 a {
-    color: inherit;
-    font-size: inherit;
+  color: inherit;
+  font-size: inherit;
+}
+
+@media screen and (min-width: 1024px) {
+  .section.is-medium {
+    padding-top: 5.5rem;
+  }
 }
